@@ -1,4 +1,4 @@
-
+```json
                  __        .-.
              .-"` .`'.    /\\|
      _(\-/)_" ,  .   ,\  /\\\/  M e o w G r a p h
@@ -18,3 +18,5 @@ Welcome to MeowGraph!
     |     - Dijkstra`s Algorithm   |
     |   ○ Fintite State Automata   |
     ================================
+
+```
